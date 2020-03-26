@@ -6,3 +6,4 @@ Tesla
 Mercedes S500
 Kia Optima
 Kia Optima
+Lexus GX470
