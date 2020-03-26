@@ -2,8 +2,6 @@ Toyota Corolla
 <<<<<<< HEAD
 BMW 3
 BMW X6
-
-=======
 Audi R8
 Tesla
->>>>>>> 00aca940a1350abd027da2ef82b9392e1ae0f7e4
+
